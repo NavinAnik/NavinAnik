@@ -10,6 +10,14 @@
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/download.png"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/kisspng-python-programming-language-computer-programming-c-hanuman-png-transparent-images-free-download-clip-5b814ed3233799.3867698615352009791443.jpg"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/Anaconda_Logo.png"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/colab_favicon_256px.png"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/download%20(1).png"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/download%20(2).png"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/download%20(4).png"></code>
+<code><img height="20" src="https://github.com/NavinAnik/NavinAnik/blob/main/IMG/autodesk-eagle.png"></code>
 
 ## GitHub Stats
 
